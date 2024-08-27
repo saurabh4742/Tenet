@@ -91,7 +91,7 @@ $ npm start
 
 > "Team Members"
 
-| S.No. | Name | Role | GitHub Username:octocat: |
+| S.No. | Name | Role | GitHub Username |
 | --------------- | --------------- | --------------- | --------------- |
 | 1. | Rishi Ranjan (Team Leader) | Machine Learning Development | [@RiH-137](https://github.com/RiH-137)  |
 | 2. | Unnatidhar Sharma | Frontend Development | [@Unnatidharsharma](https://github.com/Unnatidharsharma) |
