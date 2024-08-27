@@ -1,5 +1,5 @@
 <!-- 
-# Team Tenet
+# Team TENET
 
 # Problem Statement ID
 SIH1683
