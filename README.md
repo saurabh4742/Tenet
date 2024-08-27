@@ -16,6 +16,7 @@ Software
 
 # Team - Tenet
 # Smart India Hackathon 2024
+![SIH2024](https://github.com/RiH-137/Tenet/blob/main/sih2024.png)
 <!--
 ![SIH2022](https://user-images.githubusercontent.com/55245862/156772177-691163b0-a0b0-4102-a945-37b4f281e4c4.jpeg)
 -->
@@ -57,8 +58,9 @@ Software
 - **API Testing & Documentation**: Postman
 - **Version Control**: Git and GitHub
 - **Machine Learning**: Python, Jupyter Notebook
-<!-- - **Database**: PostgreSQL -->
 - **Hosting**: Netlify
+<!-- - **Database**: PostgreSQL -->
+
 
 <!--
 ### How to Get Started?
