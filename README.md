@@ -11,9 +11,8 @@ Software
 -->
 # Team - Tenet
 # Smart India Hackathon 2024
-<!--
-![SIH2022](https://user-images.githubusercontent.com/55245862/156772177-691163b0-a0b0-4102-a945-37b4f281e4c4.jpeg)
--->
+
+![SIH2024](https://github.com/RiH-137/Tenet/blob/main/sih2024.png)
 ## Problem Statement Number: 
 > #### SIH1683 (Development of AI/ML based solution for detection of face-swap based deep fake videos)
 <!--
@@ -73,7 +72,7 @@ $ npm start
 
 > "Team Members"
  
-| S.No. | Name | Role | GitHub Username:octocat: |
+| S.No. | Name | Role | GitHub Username |
 | --------------- | --------------- | --------------- | --------------- |
 | 1. | Rishi Ranjan (Team Leader) | Machine Learning Development | [@RiH-137](https://github.com/RiH-137)  |
 | 2. | Unnatidhar Sharma | Frontend Development | [@Unnatidharsharma](https://github.com/Unnatidharsharma) |
